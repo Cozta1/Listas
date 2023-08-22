@@ -4,3 +4,6 @@ def a():
 
     salario_final = salario_base + (salario_base * (aumento/100))
     print(f'Seu salario final com aumento de {aumento:.1f}% é de {salario_final:.2f}')
+
+if(__name__ == '__main__'):
+    a()

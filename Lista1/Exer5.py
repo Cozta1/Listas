@@ -4,3 +4,6 @@ def a():
     min = horas * 60
 
     print(f"A converção é igual á {min}")
+
+if(__name__ == '__main__'):
+    a()

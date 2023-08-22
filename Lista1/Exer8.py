@@ -5,3 +5,6 @@ def a():
     media = km/combustivel
 
     print(f'A media de KM/L do seu veiculo é de: {media}')
+
+if(__name__ == '__main__'):
+    a()

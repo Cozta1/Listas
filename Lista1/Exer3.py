@@ -5,3 +5,6 @@ def a():
     mult = num1 * num2
 
     print(f"A multiplicação de {num1} com {num2} é igual á {mult}")
+
+if(__name__ == '__main__'):
+    a()
