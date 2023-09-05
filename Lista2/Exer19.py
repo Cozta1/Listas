@@ -12,5 +12,4 @@ else:
             if nota >= 5:
                 print('Conceito C')
             else:
-                if nota < 5 :
-                    print('Conceito D')
+                print('Conceito D')

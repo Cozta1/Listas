@@ -18,5 +18,12 @@ else:
                     if codigo == 105:
                         print('Cargo: Coordenador de Grupo')
                     else:
-                        if codigo == 106:
-                            print('Cargo: Gerente')
+                        print('Cargo: Gerente')
+
+
+
+# Cargo = ['Vendedor', 'Atendente', 'Auxiliar Técnico', 'Assistente', 'Coordenador de Grupo', 'Gerente']
+#
+# Codigo = int(input('Codigo: '))
+#
+# print(Cargo[Codigo - 101])

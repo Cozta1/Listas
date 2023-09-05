@@ -12,5 +12,4 @@ else:
             if codigo == 3:
                 print('Tipo da unidade: DVD-9 (8.54 GB)')
             else:
-                if codigo == 4:
-                    print('Tipo da unidade: Blu-Ray (25 GB)')
+                print('Tipo da unidade: Blu-Ray (25 GB)')

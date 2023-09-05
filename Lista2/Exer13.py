@@ -29,5 +29,10 @@ else:
                             print('Automóvel de classe 2\nTaxa de registro: 25.50$')
 
                         else:
+                            print('Automóvel de classe 1\nTaxa de registro: 16.50$')
                             if ano <= 1970 and peso < 1200:
-                                print('Automóvel de classe 1\nTaxa de registro: 16.50$')
+
+
+
+# lista1 = {'Ano do modelo':['1970 ou antes' ], 'Peso':[', '1971 a 1979', '1980 ou depois '']}
+# lista2 = '1971 a 1979', '1980 ou depois '

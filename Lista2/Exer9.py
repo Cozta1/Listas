@@ -39,3 +39,10 @@ if mes == 12:
 else:
     if mes > 12 or mes < 1:
         print('Mes invalido')
+
+
+# meses = ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez']
+#
+# mes_numero = int(input('Mês atual: '))
+#
+# print(meses[mes_numero - 1])
