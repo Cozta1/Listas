@@ -26,5 +26,4 @@ print(f'\nMedia dos numeros é {media}')
 print(f'% de numeros positivos é {p100}%')
 print(f'% de numeros negativos é {n100}%')
 
-
     

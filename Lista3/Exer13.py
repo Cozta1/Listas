@@ -28,3 +28,4 @@ print(f'O total de numeros impares é {impar}')
 print(f'\nMedia dos numeros pares é {media_par}')
 print(f'Media dos numeros impares é {media_impar}')
 
+

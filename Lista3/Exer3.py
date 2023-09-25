@@ -10,3 +10,4 @@ else:
 
 
 print(f"O fatorial de {numero} é {resultado}")
+
